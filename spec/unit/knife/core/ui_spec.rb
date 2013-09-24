@@ -184,7 +184,7 @@ EOM
 a:
   foo
   bar
-  
+
   baz
   bjork
 b: c
